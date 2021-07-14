@@ -2,7 +2,7 @@
 
 Level 1: Automatic Table and Date Search 
 
-. Created website using date form in HTML document
+. Created website using date form in HTML document.
 
 . Wrote JavaScript code that will listen for events 
 
