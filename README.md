@@ -1,3 +1,2 @@
 # javascript-challenge
-![sightings.png](Images/sightings.png)
- 
+![final_app_part1.png](Images/sightings.png)
