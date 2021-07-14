@@ -1,2 +1,2 @@
 # javascript-challenge
-![sightings](Images/sightings.png)
+![sightings](UFO-level-1/StarterCode/static/images/sightings.png)
