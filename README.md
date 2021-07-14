@@ -4,7 +4,7 @@ Level 1: Automatic Table and Date Search
 
 * Created website using date form in HTML document.
 
-*Wrote JavaScript code that will listen for events. 
+* Wrote JavaScript code that will listen for events. 
 
 *Search through the date/time column to find rows that match user input
 
