@@ -1,2 +1,2 @@
 # javascript-challenge
-![sightings.jpg](Images/sightings.jpg)
+![sightings.png](Images/sightings.png)
